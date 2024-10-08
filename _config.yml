@@ -20,20 +20,15 @@ repository: "m-ibrahim-khalil/m-ibrahim-khalil.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar: "ibrahim.jpg" # the name of the image file in /images/author/
+  avatar: "ibrahim.png"
   name: "M Ibrahim Khalil"
-  pronouns: # example: "she/her"
-  bio: "Software Craftsman who loves to sleep and code."
+  bio: "Software Engineer | Data Engineer | AI/ML Enthusiast"
   location: "Dhaka, Bangladesh"
   employer: "IIT, University of Dhaka"
-  uri: # URL
   email: "bsse1009@iit.du.ac.bd"
-  # bitbucket: # Username
   github: "m-ibrahim-khalil"
   linkedin: "ibrahim-khalil-89a250168"
   medium: "@bsse1009"
-  # twitter: # Username
 
   # Academic websites
   # arxiv: # URL - Update with the correct link to your profile

@@ -1,29 +1,31 @@
 ---
 permalink: /
-title: "👋 Hello there, I’m **Md Ibrahim Khalil**!"
+title: "**Md Ibrahim Khalil**"
+excerpt: "Aspiring PhD Candidate | Software Engineer | AI & Machine Learning Research Enthusiast"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-## Get to Know Me 🙌
-
-💡 I’m a dedicated **Software Engineer** with nearly 3 years of experience in **Backend Web Development**, **Data Engineering**. I graduated with a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓, recognized as the leading institution for Software Engineering in Bangladesh. My interest focuses on applying **AI** to enhance and automate **Software Engineering** tasks, such as **automated smell detection**, **defect prediction**, **code refactoring**, **automated testing** and so on.
 ![security in LLM](/images/security-in-LLM.webp){: .align-right width="300" height="300"}
-🔍 Outside my industry and development work, I have collaborated on research, and currently working on a paper about **Automated [Community Smell](https://ar5iv.labs.arxiv.org/html/2209.10671) Detection**. During my academic years 📘, I also worked on research projects and implemented tools based on cutting-edge research papers. This blend of industry and research experience equipped me with the skills to seamlessly bridge theory and practice, which drove my passion, for which, **I am actively looking for a PhD position in AI for Software Engineering in Fall '25🎯.**
+I’m a dedicated **Software Engineer** with nearly 3 years of experience in **Web Development** and **Data Engineering**. I graduated with a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓, recognized as the leading institution for Software Engineering in Bangladesh. My industry work, particularly in building data pipelines, automating software processes, and collaborating with data scientists, has driven my passion to explore how AI/ML can transform software engineering tasks.
+
+I am currently working as a **Software Engineer** at **[Cefalo](https://www.cefalo.com/)**, a Norway-based software development and IT service provider company. I am also a **Research Assistant** at the **[Software Engineering Research Group (SERG)](https://serg.iit.du.ac.bd/)**, where I am actively involved in research projects focusing on **AI in Software Engineering**. I am actively seeking PhD opportunities for **Fall 2025** to further explore my research interests in **AI and ML** in **Software Engineering**.
 
 ---
 
 ### Research Interest Areas:
 
-- 🌐 **AI for SE** (Automated Software Design, Maintenance, Code Prediction/ Contextual IDE)
-- 🔄 **AI/ML in Software Maintenance** (Refactoring, Defect Prediction)
+My career has given me practical experience, but I now aim to deepen my understanding of AI and Machine Learning's theoretical foundations and their application to software engineering. I am particularly interested in pursuing a PhD to focus on these research areas:
+
+- 🌐 **AI for SE (AI4SE)** (Automated Code Generation and Repair, Code Prediction/ Contextual IDE, AI-assisted Software Testing)
+- 🔄 **ML in SE** (Software Defects Prediction, software Effort Estimation)
+- 📊 **Data-Driven SE** (Software Analytics, Software Metrics, Software Quality)
+- 🤖 **Deep Learning** (Deep Learning for SE, Neural Networks, NLP)
 - 🧠 **AI for HCI in SE** (Community Smell, Developer Behavior, Accessibility)
-- 🏗️ **Automated Software Testing** (AI-Driven Test Case Generation, Automated Test Coverage)
-- 📊 **Data-Driven SE** (Software Analytics, Mining Software Repositories)
 
 ---
 
-☕ Interested in a virtual coffee chat to explore **AI in Software Engineering** or discuss about latest **cutting-edge Software Engineering Automation**? I’d be delighted to connect and share ideas! Simply drop me an email at [📧](mailto:bsse1009@iit.du.ac.bd), and let's get the conversation started.
-Looking forward to engaging conversations!
+☕ **Let's Connect!**
+I am always looking to connect with like-minded individuals who share my passion for AI and Machine Learning in Software Engineering. So, if you are interested in discussing my research interests or potential collaboration opportunities, I would love to have a coffee chat! Feel free to reach out to me at [📧](mailto:bsse1009@iit.du.ac.bd).
