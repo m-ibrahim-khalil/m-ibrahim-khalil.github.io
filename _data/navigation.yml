@@ -12,13 +12,10 @@ main:
     url: /exp/
 
   - title: "CV"
-    url: /files/Ibrahim_khalil_resume.pdf
+    url: /files/ibrahim_khalil_cv_ac.pdf
 
   - title: "Projects"
     url: /projects/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
 
   - title: "Skills"
     url: /skills/
