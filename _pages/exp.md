@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Experience"
 permalink: /exp/
 author_profile: true
 redirect_from:
@@ -13,29 +12,32 @@ redirect_from:
 
 ### Software Engineer
 **[Cefalo](https://www.cefalo.com/)** | _Dhaka, Bangladesh_  
-📅 *July 2024 – Present*
+📅 *June 2024 – Present*
 
-*   Spearheading the design and implementation of advanced data pipelines, collaborating closely with Data Scientists to optimize data infrastructure.
-*   Leveraged **Airflow** and **Kafka** to automate and enhance data pipelines, improving both performance and scalability.
-*   Implemented robust **CI/CD pipelines** for continuous integration and delivery, fostering a culture of automated testing and rapid deployments.
-*   Orchestrated data operations using **Kubernetes** in **Docker (Kind)** clusters to create lightweight and scalable environments.
-*   Focused on **observability**, **monitoring**, and rapid incident response to ensure smooth data flow and reliability.
-*   Championed code reviews and best practices, actively participating in knowledge-sharing sessions to promote cross-team collaboration.
+**[Sensa](https://www.sensa.no/)** *(Aug 2025 – Present)*  
+*Multi-tenant DataOps Service for Sensor Data*
+*   Designed the data architecture for a multi-tenant DataOps service, utilizing **InfluxDB** for high-volume time-series data and **PostgreSQL** for complex metadata management.
+*   Built an end-to-end **MLOps pipeline** using **Azure ML Studio** and **MLflow**, automating model training, versioning, and deployment for anomaly detection models.
+*   Engineered algorithms to detect "frozen sensors" and data anomalies in real-time, significantly improving data quality assurance and system reliability.
 
-### Data Engineer
-**[Kontali](https://www.kontali.com/)** | _Norway (Remote)_  
-📅 *December 2023 – June 2024*
-
-*   Contributed to the design and enhancement of Kontali’s data infrastructure, ensuring scalability for global data operations.
-*   Collaborated with Data Scientists to build models and optimize data pipelines for analysis and reporting.
+**[Wirescan](https://www.wirescan.no/)** *(July 2024 – Present)*  
+*Energy Automation & Cable Health Monitoring*
+*   Engineered an automated data ingestion system that extracts unstructured data from PDF, CSV, and Excel formats, reducing manual data entry load by **90%**.
+*   Developed interactive visualization dashboards to render cable health indicators, enabling clients to make data-driven maintenance decisions.
 
 ### Associate Software Engineer
 **[Cefalo](https://www.cefalo.com/)** | _Dhaka, Bangladesh_  
 📅 *January 2023 – June 2024*
 
-*   Worked as a Data Engineer, collaborating with cross-functional teams to build and deploy scalable data solutions.
-*   Designed and maintained **data pipelines**, focusing on system scalability and data integrity.
-*   Actively contributed to automating deployment pipelines using **CI/CD** methodologies, enhancing operational efficiency.
+**[Kontali](https://www.kontali.com/)** *(Dec 2023 – June 2024)*  
+*Aquaculture Analytics Provider*
+*   Architected scalable **ETL/ELT pipelines** using **Python**, **Airflow**, and **Kafka**, handling high-velocity data streams for a major Norwegian analytics provider.
+*   Optimized data ingestion and transformation workflows, significantly improving the latency and reliability of the data lake.
+*   Implemented **CI/CD pipelines** to automate testing and deployment of data DAGs, ensuring production stability.
+
+**Internal Tools & Training** *(Jan 2023 – Dec 2023)*
+*   Developed efficiency-boosting internal tools, including "IT Assistant" and "Admin Assistant" **Slack bots**, which streamlined communication between developers and support teams.
+*   Underwent intensive training as a Fullstack Software Engineer, gaining proficiency in modern web technologies and best practices.
 
 ### Associate Software Engineer
 **[Brain Station 23](https://brainstation-23.com/)** | _Dhaka, Bangladesh_  
@@ -53,27 +55,7 @@ redirect_from:
 *   Gained hands-on experience in **machine learning model development** and **optimization**.
 *   Enhanced programming skills and understanding of the latest technologies in the field of **machine learning** and **data engineering**.
 
----
 
-# Research Experience
-
-### Research Assistant – Machine Learning in HealthCare
-**University of Dhaka**  
-📅 *March 2023 – Present*
-
-*   Working on the development of predictive models for healthcare diagnosis using **machine learning** techniques.
-*   Collaborating with healthcare professionals to design solutions that assist in **early disease detection** based on patient data.
-*   Published research on the application of **neural networks** for medical image analysis, improving diagnostic accuracy.
-
-### Researcher – Autonomous Systems and AI
-**University of Dhaka**  
-📅 *September 2022 – February 2023*
-
-*   Led research efforts on improving **autonomous navigation systems** using **computer vision** and **LiDAR** technologies.
-*   Developed algorithms for real-time obstacle detection and environment mapping for self-driving cars.
-*   Presented findings at **national conferences** on autonomous vehicle technology.
-
----
 
 # Teaching Experience
 

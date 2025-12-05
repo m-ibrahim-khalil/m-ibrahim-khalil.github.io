@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Education"
 permalink: /edu/
 author_profile: true
 redirect_from:
