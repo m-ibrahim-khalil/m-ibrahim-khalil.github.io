@@ -1,0 +1,10 @@
+# robots.txt for m-ibrahim-khalil.github.io
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://m-ibrahim-khalil.github.io/sitemap.xml
+
+# Disallow backup directory
+Disallow: /_backup/
