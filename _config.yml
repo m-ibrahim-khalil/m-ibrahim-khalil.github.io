@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Ibrahim Khalil"
-title_separator: "-"
-name: &name "Md. Ibrahim Khalil"
-description: &description "Software Craftsman"
+title: "Md Ibrahim Khalil"
+title_separator: "|"
+name: &name "Md Ibrahim Khalil"
+description: &description "Software Engineer | Data Engineer"
 url: https://m-ibrahim-khalil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "m-ibrahim-khalil/m-ibrahim-khalil.github.io"
@@ -21,8 +21,8 @@ repository: "m-ibrahim-khalil/m-ibrahim-khalil.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "ibrahim.png"
-  name: "M Ibrahim Khalil"
-  bio: "Software Engineer | Data Engineer | AI/ML Enthusiast"
+  name: "Md Ibrahim Khalil"
+  bio: "Software Engineer | Data Engineer"
   location: "Dhaka, Bangladesh"
   employer: "IIT, University of Dhaka"
   email: "bsse1009@iit.du.ac.bd"
