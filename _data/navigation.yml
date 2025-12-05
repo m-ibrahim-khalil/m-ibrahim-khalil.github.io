@@ -12,7 +12,7 @@ main:
     url: /exp/
 
   - title: "CV"
-    url: /files/ibrahim_khalil_cv_ac.pdf
+    url: /files/ibrahim_cv_ac.pdf
 
   - title: "Projects"
     url: /projects/
@@ -20,6 +20,6 @@ main:
   - title: "Skills"
     url: /skills/
 
-  - title: "Blog Posts"
+  - title: "Blogs"
     url: /year-archive/
 

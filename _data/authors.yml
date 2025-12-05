@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Md Ibrahim Khalil:
+  name        : "Md Ibrahim Khalil"
+  uri         : "https://m-ibrahim-khalil.github.io"
+  email       : "bsse1009@iit.du.ac.bd"
+  bio         : "Software Engineer | Data Engineer"
+  avatar      : "ibrahim.png"
+  github      : "m-ibrahim-khalil"
+  linkedin    : "ibrahim-khalil-89a250168"
