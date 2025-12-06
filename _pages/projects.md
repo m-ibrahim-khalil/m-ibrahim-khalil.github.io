@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Projects
-
 ## Academic Projects
 
 ### [LiDAR PointCloud Classification and Segmentation](https://github.com/m-ibrahim-khalil/LiDAR-Data-Classification)
@@ -33,21 +31,35 @@ _University of Dhaka | July 2021 – December 2021_
 
 ## Professional Projects
 
-### Data Pipeline Optimization and Automation
-_Software Engineer | Cefalo | January 2023 – Present_
+### Multi-tenant DataOps Service (Sensa)
+_Software Engineer | Cefalo | August 2025 – Present_
 
-*   Designed and implemented highly efficient data pipelines, leveraging **Airflow** and **Kafka** to automate data flow and ensure real-time processing.
-*   Collaborated with data scientists to enhance data infrastructure for machine learning and analytics.
-*   Implemented **CI/CD pipelines** using **Jenkins** and **Docker**, improving deployment speed and reliability.
-*   **Key Technologies**: Python, Apache Kafka, Airflow, Jenkins, Docker
+*   Designed and implemented a robust data architecture for a multi-tenant DataOps service, utilizing **InfluxDB** for high-volume time-series data and **PostgreSQL** for complex metadata management.
+*   Built an end-to-end **MLOps pipeline** using **Azure ML Studio** and **MLflow** to streamline model training, versioning, and deployment for anomaly detection.
+*   Engineered real-time algorithms to detect "frozen sensors" and data anomalies, significantly improving data quality and system reliability.
+*   **Key Technologies**: Python, InfluxDB, PostgreSQL, Azure ML, MLflow, Docker
 
-### Machine Learning Model for Client Business Optimization
-_Associate Software Engineer | Brain Station 23 | July 2022 – December 2022_
+### Energy Automation & Cable Health Platform (Wirescan)
+_Software Engineer | Cefalo | July 2024 – Present_
 
-*   Developed and deployed **machine learning models** to analyze customer data, leading to a significant improvement in client business growth.
-*   Applied **supervised learning** algorithms to predict customer behavior and optimize marketing strategies.
-*   Worked with **data visualization** libraries such as **Matplotlib** and **Seaborn** to present actionable insights to stakeholders.
-*   **Key Technologies**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn
+*   Engineered an automated data ingestion system capable of extracting unstructured data from diverse formats (PDF, CSV, Excel), reducing manual data entry efforts by **90%**.
+*   Developed interactive visualization dashboards to provide real-time insights into cable health indicators, empowering clients with data-driven decision-making capabilities.
+*   **Key Technologies**: Python, Data Visualization, Automation, Pandas
+
+### Aquaculture Analytics Ecosystem (Kontali)
+_Associate Software Engineer | Cefalo | December 2023 – June 2024_
+
+*   Architected and optimized scalable **ETL/ELT pipelines** using **Apache Airflow** and **Kafka**, managing high-velocity data streams for a leading Norwegian analytics provider.
+*   Enhanced data lake reliability and reduced latency by optimizing data ingestion and transformation workflows.
+*   Implemented **CI/CD pipelines** to automate the testing and deployment of data DAGs, ensuring high availability and production stability.
+*   **Key Technologies**: Python, Apache Airflow, Apache Kafka, Docker, CI/CD
+
+### Internal Automation Tools (Cefalo)
+_Associate Software Engineer | Cefalo | January 2023 – December 2023_
+
+*   Developed and deployed "IT Assistant" and "Admin Assistant" **Slack bots**, automating routine tasks and significantly speeding up communication between developers and support teams.
+*   Streamlined internal workflows, reducing response times and improving overall operational efficiency.
+*   **Key Technologies**: Python, Slack API, Chatbots, Automation
 
 ---
 

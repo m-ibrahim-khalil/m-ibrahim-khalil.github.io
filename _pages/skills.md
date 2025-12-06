@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# 🛠 **Skills** {#skills}
+## Technical Skills
 
-## 💻 **Technical Skills**
-
-### **Programming Languages**
+### Programming Languages
 
 - **Proficient**: Python, Java, JavaScript, Dart
 - **Familiar**: C++, C#, SQL, Bash
@@ -49,7 +47,7 @@ redirect_from:
 
 ---
 
-## 🎓 **Certifications**
+## Certifications
 
 - **Natural Language Processing in TensorFlow** – Coursera
 - **Create Custom Layers in Keras** – Coursera
@@ -58,31 +56,31 @@ redirect_from:
 
 ---
 
-## 🧠 **Soft Skills**
+## Soft Skills
 
-### **Problem-Solving**
+### Problem-Solving
 
 - Ability to break down complex issues and create actionable solutions in high-pressure environments.
 
-### **Collaboration & Teamwork**
+### Collaboration & Teamwork
 
 - Experience working in cross-functional teams, actively participating in brainstorming sessions, and advocating best practices.
 
-### **Communication**
+### Communication
 
 - Strong verbal and written communication skills, with experience in documentation, reporting, and presenting technical concepts to non-technical stakeholders.
 
-### **Adaptability**
+### Adaptability
 
 - Proven ability to adapt to new technologies and methodologies quickly, applying best practices and delivering results under changing conditions.
 
-### **Leadership**
+### Leadership
 
 - Demonstrated leadership through guiding junior engineers, organizing knowledge-sharing sessions, and contributing to team success.
 
 ---
 
-## 📚 **Languages**
+## Languages
 
 - **English**: Professional Proficiency
 - **Bengali**: Native Speaker
