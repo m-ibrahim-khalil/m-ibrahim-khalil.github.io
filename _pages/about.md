@@ -52,7 +52,7 @@ redirect_from:
   min-width: 300px;
   background-color: #0d1117; /* Dark background */
   border-radius: 12px;
-  padding: 1.5rem;
+  padding: 1rem;
   box-shadow: 0 10px 30px rgba(0,0,0,0.15);
   font-family: 'Courier New', Courier, monospace;
   position: relative;
@@ -77,7 +77,7 @@ redirect_from:
 
 .code-content {
   color: #e6edf3;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   line-height: 1.5;
 }
 
@@ -89,7 +89,7 @@ redirect_from:
 .comment { color: #8b949e; }
 .cursor {
     display: inline-block;
-    width: 8px;
+    width: 4px;
     height: 15px;
     background-color: #27c93f;
     animation: blink 1s infinite;
@@ -115,7 +115,7 @@ redirect_from:
       Software Engineer with 4+ years of experience architecting scalable ETL pipelines and MLOps infrastructure. Expert in building distributed data systems using Apache Airflow, Kafka, and Spark within Azure and Kubernetes environments. Proven track record of automating complex data workflows and deploying production-grade ML models.
     </p>
     <p class="hero-description">
-      My industry experience has highlighted critical inefficiencies in software processes, fueling my ambition to solve them through research. I am actively seeking PhD opportunities for Fall 2026 to explore how AI and Machine Learning can be leveraged to transform Software Engineering.
+      My industry experience has highlighted critical inefficiencies in software processes, fueling my ambition to solve them through research.
     </p>
   </div>
   
