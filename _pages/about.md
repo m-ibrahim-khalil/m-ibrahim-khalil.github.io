@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "**Md Ibrahim Khalil**"
 excerpt: "Aspiring PhD Candidate | Software Engineer | AI & Machine Learning Research Enthusiast"
 author_profile: true
 redirect_from:
@@ -9,14 +8,14 @@ redirect_from:
 ---
 
 ![security in LLM](/images/security-in-LLM.webp){: .align-right width="300" height="300"}
-I’m a dedicated **Software Engineer** with nearly 3 years of experience in **Web Development** and **Data Engineering**. I graduated with a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓, recognized as the leading institution for Software Engineering in Bangladesh. My industry work, particularly in building data pipelines, automating software processes, and collaborating with data scientists, has driven my passion to explore how AI/ML can transform software engineering tasks.
+### I am <span class="annotation-highlight"><b>Ibrahim Khalil</b></span>
+With nearly 4 years of experience delivering scalable web, data and ML solutions, I operate at the intersection of **Software Engineering**, **Data Science** and **Machine Learning**. A graduate of the **Institute of Information Technology, University of Dhaka**, I currently engineer robust data pipelines at **Cefalo**, where I automate complex workflows and enable data-driven decision-making.
 
-I am currently working as a **Software Engineer** at **[Cefalo](https://www.cefalo.com/)**, a Norway-based software development and IT service provider company. I am also a **Research Assistant** at the **[Software Engineering Research Group (SERG)](https://serg.iit.du.ac.bd/)**, where I am actively involved in research projects focusing on **AI in Software Engineering**. I am actively seeking PhD opportunities for **Fall 2025** to further explore my research interests in **AI and ML** in **Software Engineering**.
+My industry experience has highlighted critical inefficiencies in software processes, fueling my ambition to solve them through research. I am actively seeking **PhD opportunities for Fall 2026** to explore how **AI and Machine Learning** can be leveraged to transform Software Engineering.
 
 ---
 
 ### Research Interest Areas:
-
 My career has given me practical experience, but I now aim to deepen my understanding of AI and Machine Learning's theoretical foundations and their application to software engineering. I am particularly interested in pursuing a PhD to focus on these research areas:
 
 - 🌐 **AI for SE (AI4SE)** (Automated Code Generation and Repair, Code Prediction/ Contextual IDE, AI-assisted Software Testing)
@@ -27,5 +26,18 @@ My career has given me practical experience, but I now aim to deepen my understa
 
 ---
 
-☕ **Let's Connect!**
-I am always looking to connect with like-minded individuals who share my passion for AI and Machine Learning in Software Engineering. So, if you are interested in discussing my research interests or potential collaboration opportunities, I would love to have a coffee chat! Feel free to reach out to me at [📧](mailto:bsse1009@iit.du.ac.bd).
+### 📢 Updates
+- **August 2025**: Started designing the data architecture for a multi-tenant DataOps service at **Sensa**.
+- **July 2024**: Joined **Wirescan** project to engineer automated data ingestion systems.
+- **June 2024**: Promoted to **Software Engineer** at **Cefalo**.
+- **December 2023**: Started working on **Kontali** analytics ecosystem.
+- **Upcoming**: Actively preparing for **PhD applications for Fall 2026**.
+
+---
+
+### 📫 Get in Touch
+I am always open to discussing research collaborations, data engineering challenges, or the future of AI/SE.
+
+- **Email**: [bsse1009@iit.du.ac.bd](mailto:bsse1009@iit.du.ac.bd)
+- **GitHub**: [m-ibrahim-khalil](https://github.com/m-ibrahim-khalil)
+- **LinkedIn**: [Md Ibrahim Khalil](https://www.linkedin.com/in/m-ibrahim-khalil-swe/)
